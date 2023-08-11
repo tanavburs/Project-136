@@ -1,0 +1,23 @@
+body {
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(111,111,171,1) 35%, rgba(0,212,255,1) 100%);;
+
+}
+
+.header {
+    width:100%;
+    margin-top: 0%;
+    
+}
+
+canvas {
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
